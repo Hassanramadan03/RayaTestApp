@@ -17,5 +17,5 @@ Raya teat App is a mean Stack web application with responsive ui and ux
   1-Single Page Application with angularjs 
   2-Responsive UI 
   3-(2way dataBinding) filter in attributes of the products
-  4-animation GUI
+  4-animation GUI.
   
